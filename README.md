@@ -1,5 +1,5 @@
 #許晉瑜 Chin-Yu Hsu
-----------
+
 	- Birdhday: Nov 29th, 1989
 	- Mobile: 0972-389099
 	- E-mail: sw9856@gmail.com
@@ -10,7 +10,7 @@
 
 ##Job Objective
 	
-	- **Front-End Developer**
+**Front-End Developer**
 	
  
 ##Skills
