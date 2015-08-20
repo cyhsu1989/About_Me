@@ -16,7 +16,13 @@
  
 ##Skills
 
-- Languages
+- HTML
+	- 
+- CSS
+	- 
+- JavaScript
+	- 
 - Tools
+	- 
 
 
