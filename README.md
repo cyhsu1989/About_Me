@@ -1,6 +1,6 @@
 #許晉瑜 Chin-Yu Hsu
 
-
+- **Job Objective: Front-End Developer**
 - Birdhday: Nov 29th, 1989
 - Mobile: 0972-389099
 - E-mail: sw9856@gmail.com
@@ -9,27 +9,29 @@
 	- 朝陽科技大學資訊管理學系, 2008-2012
 
 
-##Job Objective
+##Works
 	
-- **Front-End Developer**
+- http://cyhsu9856.github.io/web_practice2
 	
  
 ##專研技術
 
 - HTML
 	- Semantic Design
+	- (待補)
 - CSS
 	- Responsive Web Design
+	- (待補)
 - JavaScript
-	- jQuery (plugin)
+	- jQuery (plug-in)
 - Tools
-	- Version Control (Git)
+	- Version Control (待補)
 
 
 ##能力說明
 
 - 具備Responsive CSS Layout的設計經驗
-- 以單純CSS3的技術設計小型動畫，以提升使用體驗
+- 會使用CSS3設計小型互動效果，提升使用體驗
 - 能夠使用jQuery plug-in來設計動畫效果
 
 
@@ -38,19 +40,23 @@
 - 正在學習Angular JS、介接API資訊
 
 
+##未來目標
+
+- **短期 (自我成長與最佳化)**
+	- 將基本前端技術練得更扎實並快速累積實務經驗
+	- 探索新技術: (待補)
+- **中長期 (提升競爭力)**
+	- 跨領域的能力:使用者體驗及美感的設計思維
+	- (待補)
+
 
 ##人格特質
 
-- 注重細節、專注工作，以獲得成就感為目標
-- 喜歡團隊合作模式，亦能獨立作業
+- 注重細節、專注工作，不斷追求完成作品的成就感
+- 喜歡團隊合作，與他人分享及交流，亦能獨立作業
+- 喜愛美的事物，經常蒐集喜歡的設計或風格做養分
 
 
-##未來目標
 
-- 短期
-	- 快速累積技術開發經驗，並最佳化自己的開發流程
-	- 循序漸進的玩耍新技術，與他人分享及交流
-- 中長期
-	- 著墨於使用者體驗及美感的設計思維
 
 
