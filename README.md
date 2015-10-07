@@ -19,14 +19,12 @@
 
 - HTML
 	- Semantic Design
-	- (待補)
 - CSS
 	- Responsive Web Design (without frameworks)
-	- (待補)
 - JavaScript
 	- jQuery (plug-in)
 - Tools
-	- Version Control (待補)
+	- Version Control (Git)
 
 
 ##能力說明
@@ -45,14 +43,12 @@
 
 - **短期 (自我成長與最佳化)**
 	- 扎實基本前端技術並快速累積實務經驗
-	- 使用最佳化流程的工具以提升效率
-	- 持續學習JavaScript Framworks
-	- 探索新技術: (待補)
+	- 學習使用前端開發工具以最佳化開發流程
+	- 持續學習JavaScript Frameworks: React.js
 - **中長期 (提升競爭力)**
 	- 涉略後端技術
-	- 跨領域的能力:使用者體驗及培養美感的設計思維
-	- (待補)
-
+	- 展域的能力:培養美感及使用者體驗的設計思維
+    - 探索新科技
 
 ##人格特質
 
