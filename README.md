@@ -12,9 +12,9 @@
 #Works
 
 - 一般網頁
-    - http://cyhsu9856.github.io/web_homework1
+    - http://cyhsu9856.github.io/Fitness
 - 電子商務型網頁 	
-	- http://cyhsu9856.github.io/web_practice2
+	- http://cyhsu9856.github.io/E-Commerce
 	
  
 #專研技術
