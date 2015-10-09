@@ -8,37 +8,35 @@
 	- 國立彰化師範大學資管所(數位內容科技與管理組), 2012-2014
 	- 朝陽科技大學資訊管理學系, 2008-2012
 
-
-#Works
-
-- 一般網頁
-    - http://cyhsu9856.github.io/Fitness
-- 電子商務型網頁 	
-	- http://cyhsu9856.github.io/E-Commerce
-	
  
 #專研技術
 
-- HTML
-	- Semantic Design
-- CSS
+- HTML & CSS3
+    - Semantic Design
 	- Responsive Web Design (without frameworks)
+    - Works:
+        + Basic Layout: http://cyhsu9856.github.io/Fitness
+        + E-Commerce: http://cyhsu9856.github.io/E-Commerce
 - JavaScript
+    - Native JS
 	- jQuery (plug-in)
-- Tools
-	- Version Control (Git)
+- Familiar Framework、Tools
+    - Bootstrap
+	- Version Control: Git & GitHub
 
 
 #能力說明
 
 - 具備Responsive CSS Layout的設計經驗
 - 會使用CSS3設計小型互動效果，提升使用體驗
+- 了解原生JavaScript
 - 能夠使用jQuery plug-in來設計動畫效果
 
 
 #目前研究
 
-- 正在學習Angular JS、介接API資訊
+- 學習使用 AngularJS (frontend MVC framework) 完成前端效果及取得 API
+- 後端使用 Nodejs 作為開發框架並結合 Mongodb nosql 資料庫
 
 
 #未來目標
