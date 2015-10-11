@@ -27,10 +27,10 @@
 
 #能力說明
 
-- 具備Responsive CSS Layout的設計經驗
+- 具備 Responsive CSS Layout 的設計經驗
 - 會使用CSS3設計小型互動效果，提升使用體驗
-- 了解原生JavaScript
-- 能夠使用jQuery plugin來設計動畫效果
+- 了解原生 JavaScript
+- 能夠使用 jQuery plugin 來設計動畫效果
 - 懂版本控制 Git 及 GitHub
 
 
@@ -45,7 +45,7 @@
 - **短期 (自我成長與最佳化)**
 	- 扎實基本前端技術並快速累積實務經驗
 	- 學習使用前端開發工具以最佳化開發流程
-	- 學習JavaScript Framework: React.js
+	- 學習 JavaScript Framework: React.js
 - **中長期 (提升競爭力)**
 	- 涉略後端技術
 	- 展域的能力:培養美感及使用者體驗的設計思維
