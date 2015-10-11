@@ -19,7 +19,7 @@
         + E-Commerce: http://cyhsu9856.github.io/E-Commerce
 - JavaScript
     - Native JS
-	- jQuery (plug-in)
+	- jQuery Plugin
 - Familiar Framework、Tools
     - Bootstrap
 	- Version Control: Git & GitHub
@@ -30,13 +30,14 @@
 - 具備Responsive CSS Layout的設計經驗
 - 會使用CSS3設計小型互動效果，提升使用體驗
 - 了解原生JavaScript
-- 能夠使用jQuery plug-in來設計動畫效果
+- 能夠使用jQuery plugin來設計動畫效果
+- 懂版本控制 Git 及 GitHub
 
 
 #目前研究
 
-- 學習使用 AngularJS (frontend MVC framework) 完成前端效果及取得 API
-- 後端使用 Nodejs 作為開發框架並結合 Mongodb nosql 資料庫
+- 使用 AngularJS (frontend MVC framework) 完成前端效果及取得 API
+- 後端使用 NodeJS 作為開發框架並結合 Mongodb nosql 資料庫
 
 
 #未來目標
@@ -44,7 +45,7 @@
 - **短期 (自我成長與最佳化)**
 	- 扎實基本前端技術並快速累積實務經驗
 	- 學習使用前端開發工具以最佳化開發流程
-	- 持續學習JavaScript Frameworks: React.js
+	- 學習JavaScript Framework: React.js
 - **中長期 (提升競爭力)**
 	- 涉略後端技術
 	- 展域的能力:培養美感及使用者體驗的設計思維
