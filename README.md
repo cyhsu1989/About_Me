@@ -21,6 +21,7 @@
     - Native JS
 	- jQuery Plugin
 - Familiar Framework、Tools
+    - AngularJS
     - Bootstrap
 	- Version Control: Git & GitHub
 
@@ -32,11 +33,12 @@
 - 了解原生 JavaScript
 - 能夠使用 jQuery plugin 來設計動畫效果
 - 懂版本控制 Git 及 GitHub
+- 能使用 AngularJS (frontend MVC framework) 完成前端效果及取得 API
 
 
 #目前研究
 
-- 使用 AngularJS (frontend MVC framework) 完成前端效果及取得 API
+- 深入研究 AngularJS 的運作模式，並實際導入應用開發
 - 後端使用 NodeJS 作為開發框架並結合 Mongodb nosql 資料庫
 
 
