@@ -22,6 +22,7 @@
 	- jQuery Plugin
 - Familiar Framework、Tools
     - AngularJS
+        + 介接API: http://cyhsu9856.github.io/AirQuality-Index
     - Bootstrap
 	- Version Control: Git & GitHub
 
