@@ -1,4 +1,4 @@
-#許晉瑜 Chin-Yu Hsu
+# 許晉瑜 Chin-Yu Hsu
 
 - **Job Objective: Front-End Developer**
 - Birdhday: Nov 29th, 1989
@@ -9,7 +9,7 @@
 	- 朝陽科技大學資訊管理學系, 2008-2012
 
  
-#專研技術
+# 專研技術
 
 - HTML & CSS3
     - Semantic Design
@@ -27,7 +27,7 @@
 	- Version Control: Git & GitHub
 
 
-#能力說明
+# 能力說明
 
 - 具備 Responsive CSS Layout 的設計經驗
 - 會使用 CSS3 設計小型互動效果，提升使用體驗
@@ -37,7 +37,7 @@
 - 能使用 AngularJS (frontend MVC framework) 完成前端效果及取得 API
 
 
-#目前研究
+# 目前研究
 
 - 深入研究 Vue.js 的運作模式，並實際導入應用開發
 - HTML/CSS Template 開發、OOCSS
@@ -45,7 +45,7 @@
 - Gulp
 
 
-#未來目標
+# 未來目標
 
 - **短期 (自我成長與最佳化)**
 	- 扎實基本前端技術並快速累積實務經驗
@@ -56,7 +56,7 @@
 	- 展域的能力:培養美感及使用者體驗的設計思維
     - 探索新科技
 
-#人格特質
+# 人格特質
 
 - 注重細節、專注工作，不斷追求完成作品的成就感
 - 喜歡團隊合作，與他人分享及交流
