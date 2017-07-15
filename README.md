@@ -23,14 +23,14 @@
 - Familiar Framework、Tools
     - AngularJS
         + 介接API: http://cyhsu9856.github.io/AirQuality-Index
-    - Bootstrap
+    - Bootstrap 3
 	- Version Control: Git & GitHub
 
 
 #能力說明
 
 - 具備 Responsive CSS Layout 的設計經驗
-- 會使用CSS3設計小型互動效果，提升使用體驗
+- 會使用 CSS3 設計小型互動效果，提升使用體驗
 - 了解原生 JavaScript
 - 能夠使用 jQuery plugin 來設計動畫效果
 - 懂版本控制 Git 及 GitHub
@@ -39,7 +39,10 @@
 
 #目前研究
 
-- 深入研究 AngularJS 的運作模式，並實際導入應用開發
+- 深入研究 Vue.js 的運作模式，並實際導入應用開發
+- HTML/CSS Template 開發、OOCSS
+- SASS/SCSS
+- Gulp
 
 
 #未來目標
@@ -47,7 +50,7 @@
 - **短期 (自我成長與最佳化)**
 	- 扎實基本前端技術並快速累積實務經驗
 	- 學習使用前端開發工具以最佳化開發流程
-	- 學習 JavaScript Framework: React.js
+	- 學習 JavaScript Framework: Vue.js、Angular 4
 - **中長期 (提升競爭力)**
 	- 涉略後端技術:使用 NodeJS 作為開發框架並結合 Mongodb nosql 資料庫
 	- 展域的能力:培養美感及使用者體驗的設計思維
