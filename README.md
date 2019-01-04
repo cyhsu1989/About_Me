@@ -1,9 +1,9 @@
 # 許晉瑜 Chin-Yu Hsu
 
-- **Job Objective: Front-End Developer**
+- Job Objective: Front-End Developer**
 - Birdhday: Nov 29th, 1989
 - Mobile: 0972-389099
-- E-mail: sw9856@gmail.com
+- E-mail: cyhsu1989@gmail.com
 - Education: 
 	- 國立彰化師範大學資管所(數位內容科技與管理組), 2012-2014
 	- 朝陽科技大學資訊管理學系, 2008-2012
@@ -15,14 +15,14 @@
     - Semantic Design
 	- Responsive Web Design (without frameworks)
     - Works:
-        + Basic Layout: http://cyhsu9856.github.io/Fitness
-        + E-Commerce: http://cyhsu9856.github.io/E-Commerce
+        + Basic Layout: http://cyhsu1989.github.io/Fitness/
+        + E-Commerce: http://cyhsu1989.github.io/E-Commerce/
 - JavaScript
     - Native JS
 	- jQuery Plugin
 - Familiar Framework、Tools
     - AngularJS
-        + 介接API: http://cyhsu9856.github.io/AirQuality-Index
+        + 介接API: http://cyhsu1989.github.io/AirQuality-Index/
     - Bootstrap 3
 	- Version Control: Git & GitHub
 
