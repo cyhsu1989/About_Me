@@ -1,9 +1,9 @@
 # 許晉瑜 Chin-Yu Hsu
 
-- Job Objective: Front-End Developer**
+- Job Objective: Front-End Developer
 - Birdhday: Nov 29th, 1989
 - Mobile: 0972-389099
-- E-mail: cyhsu1989@gmail.com
+- E-mail: cyhsu1989@gmail.com
 - Education: 
 	- 國立彰化師範大學資管所(數位內容科技與管理組), 2012-2014
 	- 朝陽科技大學資訊管理學系, 2008-2012
