@@ -50,7 +50,7 @@
 - jQuery
 - Plugin Integration 
 - Works
-    + [Vanilla JS] 串接 twitch API：[Live Stream Gallery](https://github.com/cyhsu1989/LiveStreamGallery)
+    + [Vanilla JS] 串接 twitch API：[Live Stream Gallery](https://github.com/cyhsu1989/LiveStreamGallery)
 
 ## Front-End Framework
 - Bootstrap 3
