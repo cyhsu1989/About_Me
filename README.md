@@ -40,23 +40,23 @@
 - FlexBox
 - SASS / SCSS
 - Works
-    + [Float] My First Web Page Layout： [Fitness](http://cyhsu1989.github.io/Fitness/)
-    + [Float] E-Commerce Layout： [E-Commerce](http://cyhsu1989.github.io/E-Commerce/)
-    + [SCSS] Landing Page：[Home Cooked Meals](https://github.com/cyhsu1989/LandingPage-HomecookedMeals)
-    + [SCSS] CSS Animation & CSS New Features：[Natours](https://github.com/cyhsu1989/LandingPage-Natours)
+    + [Float] My First Web Page Layout： <a href="http://cyhsu1989.github.io/Fitness/" target="_blank">Fitness</a>
+    + [Float] E-Commerce Layout： <a href="http://cyhsu1989.github.io/E-Commerce/" target="_blank">E-Commerce</a>
+    + [SCSS] Landing Page：<a href="https://github.com/cyhsu1989/LandingPage-HomecookedMeals" target="_blank">Home Cooked Meals</a>
+    + [SCSS] CSS Animation & CSS New Features：<a href="https://github.com/cyhsu1989/LandingPage-Natours" target="_blank">Natours</a>
 
 ## JavaScript
 - Native JS (ES5 / ES6)
 - jQuery
 - Plugin Integration 
 - Works
-    + [Vanilla JS] 串接 twitch API：[Live Stream Gallery](https://github.com/cyhsu1989/LiveStreamGallery)
+    + [Vanilla JS] 串接 twitch API：<a href="https://github.com/cyhsu1989/LiveStreamGallery" target="_blank">Live Stream Gallery</a>
 
 ## Front-End Framework
 - Bootstrap 3
 - Vue.js
 - Works
-    + [AngularJS] 串接 Open API 並顯示在前端頁面：[Air Quality](http://cyhsu1989.github.io/AirQuality-Index/)
+    + [AngularJS] 串接 Open API 並顯示在前端頁面：<a href="http://cyhsu1989.github.io/AirQuality-Index/" target="_blank">Air Quality</a>
 
 ## Tools
 - Visual Studio Code
@@ -67,7 +67,7 @@
 # 開發經驗
 
 - Web Application Service Integration
-    + [Vue.js] 開發模組 (Content Manager)：[Cloud Animator](https://www.reallusion.com/cloudanimator/)
+    + [Vue.js] 開發模組 (Content Manager)：<a href="https://www.reallusion.com/cloudanimator/" target="_blank">Cloud Animator</a>
 - Vue.js Integration
 - AngularJS / Angular Framework Integration
 - RESTful API Integration 
@@ -128,7 +128,7 @@
 # 自我學習
 ## CSS Grid
 
-目前會在閒暇之餘，學習語法並實際在 [線上編輯器](https://jsfiddle.net/user/cyhsu1989/fiddles/) 中體驗每個語法的效果。
+目前會在閒暇之餘，學習語法並實際在 <a href="https://jsfiddle.net/user/cyhsu1989/fiddles/" target="_blank">線上編輯器</a> 中體驗每個語法的效果。
 
 ## ES6
 
@@ -151,5 +151,5 @@
 - 喜歡團隊合作，與他人分享及交流。
 - 喜愛美的事物，經常蒐集喜歡的設計或風格做為養分。
 - 知識建立的本質，學習到的新知識我會讓自己消化並由自己吐出來，才是自己的。
-- 經驗累積的習慣，將自身遇到的難題記錄下來，有撰寫筆記的習慣（[hackmd](https://hackmd.io/)），幫助自己或他人的學習路上更暢通。
+- 經驗累積的習慣，將自身遇到的難題記錄下來，有撰寫筆記的習慣（<a href="https://hackmd.io/" target="_blank">hackmd</a>），幫助自己或他人的學習路上更暢通。
 - 享受學習的感覺，學習應該是開心的，即使有痛苦，也知道這是知識建立的過程，告訴自己享受新知的新鮮感，讓自己有不斷成長的回饋感。
