@@ -43,7 +43,7 @@
     + [Float] My First Web Page Layout： <a href="http://cyhsu1989.github.io/Fitness/" target="_blank">Fitness</a>
     + [Float] E-Commerce Layout： <a href="http://cyhsu1989.github.io/E-Commerce/" target="_blank">E-Commerce</a>
     + [SCSS] Landing Page：<a href="https://github.com/cyhsu1989/LandingPage-HomecookedMeals" target="_blank">Home Cooked Meals</a>
-    + [SCSS] CSS Animation & CSS New Features：<a href="https://github.com/cyhsu1989/LandingPage-Natours" target="_blank">Natours</a>
+    + [SCSS] CSS Animation & CSS New Features：<a href="https://github.com/cyhsu1989/LandingPage-Natours" target="_blank">Natours</a> ( `working in progress` )
 
 ## JavaScript
 - Native JS (ES5 / ES6)
