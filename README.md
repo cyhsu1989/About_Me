@@ -65,6 +65,7 @@
 - Git (SourceTree / Command Line / VS Code)
 - Command Line (Basic)
 - Postman
+- Zeplin
 
 # 開發經驗
 
@@ -81,8 +82,8 @@
     - BEM
     - 7-1 system
 - SEO / Google Analytics (GA/GTM/Ecommerce Tracking)
-- Icon Font (Font Awesome)
-- Using SVG
+- Font Icon (Font Awesome)
+- Using SVG / SVG Icon (Sprite)
 
 
 # 能力說明
