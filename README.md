@@ -1,4 +1,4 @@
-# 許晉瑜 Chin-Yu Hsu
+# 許晉瑜 (Chin-Yu Hsu)
 
 - Birdhday: Nov 29th, 1989
 - Mobile: +886 972-389-099
