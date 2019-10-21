@@ -35,7 +35,7 @@
 # 專研技能
 
 ## HTML & CSS
-- HTML5
+- HTML5 (Semantic Design)
 - Responsive Web Design (without frameworks)
 - FlexBox
 - SASS / SCSS
@@ -146,6 +146,7 @@
 
 ## JS Framework
 ### React.js :
+
 目前對 React 其設計概念以及 JSX 語法已有基本認知，正在練習 Hooks 及 contextAPI。
 
 即將實作完整的應用，深化學習。
