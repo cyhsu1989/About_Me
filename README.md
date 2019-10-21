@@ -113,10 +113,13 @@
 ## Front-End Framework
 - JavaScript Framework / Library，串接 API 以及整合前端應用
     - AngularJS / Angular：最一開始學習的框架，直至 Angular 升級成 2 之後也有開發過一陣子。
+
     - Vue.js：後期使用 Vue，用於開發電子商務網站以及應用程式服務，了解基本架構以及搭配 Vuex 的使用。
+
     - React.js：近期學習，有著先前其它框架的開發經驗，能夠幫助我快速吸收，並慢慢體驗到它的美好之處。
 - CSS Framework，快速產出可應用及商品化網頁
     - Bootstrap 3：曾使用於大量開發過商品化頁面，算是最熟悉的 CSS Framework，因此未來要使用更新的版本（Bootstrap 4），我相信能快速吸收並且應用，不會是太大的問題。
+    
 
 ## Tools
 - 會使用 JSON 結構並能設計內容，曾經製作簡單的前端網頁應用，提供給 PM / 行銷人員透過線上工具編修 JSON 資料內容，以利行銷內容的更新，提供未來能夠快速串接資料庫的彈性。
