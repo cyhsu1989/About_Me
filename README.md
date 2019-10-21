@@ -71,6 +71,7 @@
 
 - Web Application Service Integration
     + [Vue.js] 開發模組 (Content Manager)：<a href="https://www.reallusion.com/cloudanimator/" target="_blank">Cloud Animator</a>
+
 - Vue.js Integration
 - AngularJS / Angular Framework Integration
 - RESTful API Integration 
