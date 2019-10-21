@@ -56,6 +56,7 @@
 ## Front-End Framework
 - Bootstrap 3
 - Vue.js
+- React.js
 - Works
     + [AngularJS] 串接 Open API 並顯示在前端頁面：<a href="http://cyhsu1989.github.io/AirQuality-Index/" target="_blank">Air Quality</a>
 
@@ -137,9 +138,9 @@
 
 ## JS Framework
 ### React.js :
-目前對 React 其設計概念以及 JSX 語法已有基本認知，正在練習組件特色的相關應用。
-後續會實作完整的應用，做為入門階段學習的檢驗。（打算將過去在 Vue 開發上的體驗轉換為 React 版本）
+目前對 React 其設計概念以及 JSX 語法已有基本認知，正在練習 Hooks 及 contextAPI。
 
+即將實作完整的應用，深化學習。
 
 # 未來目標
 ## 領域延伸
