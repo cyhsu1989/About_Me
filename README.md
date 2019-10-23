@@ -64,7 +64,7 @@
 -   React.js
 -   Works
     -   [AngularJS] 串接 Open API 並顯示在前端頁面：<a href="http://cyhsu1989.github.io/AirQuality-Index/" target="_blank">Air Quality</a>
-    -   [React.js] GitHub Finder ( `working in progress` )
+    -   [React.js] 串接 GitHub API：<a href="https://cyhsu1989.github.io/github-finder/" target="_blank">GitHub Finder</a> ( `working in progress` )
 
 ## Tools
 
