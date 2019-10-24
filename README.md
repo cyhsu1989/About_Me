@@ -64,7 +64,7 @@
 -   React.js
 -   Works
     -   [AngularJS] 串接 Open API 並顯示在前端頁面：<a href="http://cyhsu1989.github.io/AirQuality-Index/" target="_blank">Air Quality</a>
-    -   [React.js] 串接 GitHub API：<a href="https://cyhsu1989.github.io/github-finder/" target="_blank">GitHub Finder</a> ( `working in progress` )
+    -   [React.js] 串接 GitHub API：<a href="https://github.com/cyhsu1989/github-finder" target="_blank">GitHub Finder</a> ( `working in progress` )
 
 ## Tools
 
@@ -162,9 +162,9 @@
 
 ### React.js :
 
-目前對 React 其設計概念以及 JSX 語法已有基本認知，正在練習 Hooks 及 contextAPI。
+目前對 React 其 Component 設計概念以及 JSX 語法已有基本認知，正在練習 Hooks 及 contextAPI。
 
-即將實作完整的應用，深化學習。
+將實作一些完整的應用，深化學習。
 
 # 未來目標
 
