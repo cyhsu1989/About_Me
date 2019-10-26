@@ -102,6 +102,7 @@
 -   熟悉 CSS 並能快速學習使用 Framework (如：Bootstrap)，具備 Responsive Web Design 的經驗。
 -   會使用 CSS Pre-Processor (SCSS)，提升 CSS 可維護性。
 -   會使用 CSS (Transition、Animation) 設計微型互動效果，提升使用體驗。
+-   會持續研究 CSS 新屬性，視瀏覽器相容情況應用在專案上。
 
 ## JavaScript
 
