@@ -102,6 +102,9 @@
 -   熟悉 CSS 並能快速學習使用 Framework (如：Bootstrap)，具備 Responsive Web Design 的經驗。
 -   會使用 CSS Pre-Processor (SCSS)，提升 CSS 可維護性。
 -   會使用 CSS (Transition、Animation) 設計微型互動效果，提升使用體驗。
+
+## JavaScript
+
 -   懂得原生 JavaScript (ES5)
     -   this
     -   Prototype
@@ -112,9 +115,6 @@
     -   Destructuring Assignment
     -   Template Strings
     -   Class
-
-## JavaScript
-
 -   會使用 Ajax (jQuery ajax、Fetch API) 串接 RESTful API 取得資料
 -   會使用 JavaScript 相關 Plugin 來整合應用或動畫效果
     -   Moment.js、Linq.js、Lodash
@@ -171,6 +171,10 @@
 ## 領域延伸
 
 -   後端開發
+
+    -   Node.js
+    -   Golang
+
 -   UI/UX 思維
 
 # 人格特質
