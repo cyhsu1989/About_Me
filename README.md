@@ -164,9 +164,11 @@
 
 ### React.js :
 
-目前對 React 其 Component 設計概念以及 JSX 語法已有基本認知，正在練習 Hooks 及 contextAPI。
+目前對 React 其 Component 設計概念以及 JSX 語法已有基本認知，並也練習 Hooks 及 contextAPI 的管理，目前就是持續實作一些完整的應用，深化學習。
 
-將實作一些完整的應用 ( `working in progress` )，深化學習。
+## Node.js
+
+學習 React 過程中嘗試學習 MERN 開發模式 (MongoDB / Express / React.js / Node.js )，體驗用 Express 來實作後端 API 的開發經驗。
 
 # 未來目標
 
