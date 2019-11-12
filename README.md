@@ -4,7 +4,7 @@
 -   Mobile: +886 972-389-099
 -   E-mail: cyhsu1989@gmail.com
 -   YouTube:
-    <a href="https://www.youtube.com/channel/UCHCqZ-KO1eiSBM9WJF_STVw" target="_blank">我的頻道</a>
+    <a href="https://www.youtube.com/channel/UCHCqZ-KO1eiSBM9WJF_STVw" target="_blank">歡迎參觀我的頻道</a>
 -   Education:
     -   國立彰化師範大學資訊管理研究所 (數位內容科技與管理組)，2012 - 2014
     -   朝陽科技大學資訊管理學系，2008 - 2012
