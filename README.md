@@ -178,7 +178,6 @@
 -   後端開發
 
     -   Node.js
-    -   Golang
 
 -   UI/UX 思維
 
