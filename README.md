@@ -90,7 +90,7 @@
     -   Web Template Module
     -   OOP in JavaScript
 -   3rd-party API Integration (Facebook, Google...)
--   CSS Pre-Processor (SCSS)
+-   CSS Pre Processor (SCSS)
     -   BEM
     -   7-1 system
 -   SEO / Google Analytics (GA/GTM/Ecommerce Tracking)
