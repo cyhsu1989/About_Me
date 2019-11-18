@@ -1,6 +1,6 @@
 # 許晉瑜 (Chin-Yu Hsu)
 
--   Birdhday: Nov 29th, 1989
+-   Birthday: Nov 29th, 1989
 -   Mobile: +886 972-389-099
 -   E-mail: cyhsu1989@gmail.com
 -   YouTube:
